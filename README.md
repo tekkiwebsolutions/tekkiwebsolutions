@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Tekki Web Solutions Pvt. Ltd. ★★★★★ 14+ Years Upwork's Top Rated Plus | ISO 9001:2015 Certified Company | NASSCOM® Member ★★★★★</h1>
-<h3 align="center">We offer Blockchain / MEAN Stack / Laravel / Yii / Wordpress / ReactJS / Shopify / Python / Magento / CakePHP / SEO / AI / VA / RPA / Machine & Deep Learning / AR / VR / IOT</h3>
+<h3 align="center">We offer Blockchain / MEAN Stack / Laravel / Wordpress / ReactJS / Shopify / Python / Magento / CakePHP / SEO / AI / VA / RPA / Machine & Deep Learning / AR / VR / IOT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekkiwebsolutions&label=Profile%20views&color=0e75b6&style=flat" alt="tekkiwebsolutions" /> </p>
 
