@@ -47,6 +47,11 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Sapper](https://img.shields.io/badge/Sapper-%23FF3E00?style=flat&logo=sapper&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23D82C2C?style=flat&logo=redis&logoColor=white)
+![Qt.io](https://img.shields.io/badge/Qt.io-%2300A6A6?style=flat&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%2305790F?style=flat&logo=opencv&logoColor=white)
+
 
 
 ### 📚 Libraries & Frameworks
